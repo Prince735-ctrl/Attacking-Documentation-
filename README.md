@@ -40,7 +40,7 @@ My Attack Plan:
 
 -Host it using a tunneling service
 
--Create a believable message to trick the victim
+-Create a urgent believable message to trick the victim
 
 -Wait for any interaction
 
@@ -48,13 +48,15 @@ My Attack Plan:
 
 >Why Zphisher?
 
--It is simple, fast, and perfect for demonstrating phishing concepts in a classroom
+-It is simple and fast
 
 3.2 Choosing the Hosting Method
 
-I used one of Zphisher’s tunneling options:
+I used one of Zphisher’s tunneling options from this:
 
 ngrok / cloudflared / localhost.run
+
+I used cloudflared for this.
 
 This allowed my phishing page to be accessible over the internet during the exercise.
 
@@ -62,12 +64,13 @@ This allowed my phishing page to be accessible over the internet during the exer
 
 I crafted a short, urgent message to increase the chance of a click:
 
+“Unusual login detected — confirm your identity.”
+
+Similar messages are:
+
 “Session expired, please log in again.”
 
 “Security verification required.”
-
-“Unusual login detected — confirm your identity.”
-
 These types of messages exploit human behavior.
 
 3.4 Deploying the Attack
@@ -116,7 +119,7 @@ What Worked Well
 
 The cloned login page looked convincing
 
-The urgent message increased curiosity
+The urgent message increased alarm and sense of urgency 
 
 Tunneling made the link accessible
 
