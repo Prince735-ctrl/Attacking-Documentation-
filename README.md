@@ -39,9 +39,9 @@ My Attack Plan:
 -Perform Social Engineering about my target 
 <img width="1366" height="720" alt="first pic" src="https://github.com/user-attachments/assets/4dfa2818-fa7b-4306-8dcc-699052521335" />
 
--Clone a login page of LinkedIn us
+-Clone a login page of LinkedIn using Zphisher
 <img width="556" height="494" alt="523478983-c3b14b20-36b0-4203-a586-5169dedb33c3" src="https://github.com/user-attachments/assets/f6c8406a-df0a-4b7d-b1be-434fc20dc473" />
-ing Zphisher
+
 
 -Host it using a tunneling service
 <img width="379" height="118" alt="523479109-68ff5315-9adb-4fa2-a4e7-5ebb99f7ebfa" src="https://github.com/user-attachments/assets/13b8865f-e4a4-45bf-8c0c-58ee480b0bf3" />
@@ -112,7 +112,8 @@ Timestamp logs
 Even though my partner didn’t fall for the trap, the toolkit still logged:
 
 Page visits
-/home/prince/Pictures/Screenshot_2025-10-29_07-03-41.png
+<img width="640" height="523" alt="kali  Running  - Oracle VirtualBox 12_7_2025 11_28_47 PM" src="https://github.com/user-attachments/assets/eccd93f2-58d5-4168-95da-d7404ec661fd" />
+
 Failed attempts
 
 Redirect attempts
