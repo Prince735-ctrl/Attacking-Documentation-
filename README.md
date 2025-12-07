@@ -1,5 +1,5 @@
 # Attacking-Documentation-
-Simulated Phising and Credential Harvesting
+Lab testing: Phising and Credential Harvesting
 #AUTHOR
 Charles Adedeji Adeola; Offensive Security Focus
 
@@ -32,9 +32,12 @@ Phishing attacks rely on:
 
 2. How the Attack Was Performed
 
-For this project, I generated a phishing page using Zphisher and sent the link to my defensive partner to simulate a real attack.
+For this project, I first performed generated a phishing page using Zphisher and sent the link to my defensive partner to simulate a real attack.
 
 My Attack Plan:
+<img width="1366" height="720" alt="Agboola-temiloluwa_procmon-digital-forensics-lab_ phishing detection with procmon - Google Chrome 12_7_2025 10_36_31 PM" src="https://github.com/user-attachments/assets/bb982b36-4dbf-44ee-a2b3-82eb77713beb" />
+
+-Investigate about my target 
 
 -Clone a login page of LinkedIn using Zphisher
 
@@ -54,9 +57,9 @@ My Attack Plan:
 
 I used one of Zphisher’s tunneling options from this:
 
-ngrok / cloudflared / localhost.run
+ngrok / cloudflared / localhost
 
-I used cloudflared for this.
+I used a localhost for this.
 
 This allowed my phishing page to be accessible over the internet during the exercise.
 
